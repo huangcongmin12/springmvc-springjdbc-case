@@ -1,0 +1,52 @@
+.list {
+	text-align: center;
+}
+
+.list table {
+	margin: 10 auto;
+	text-align: center;
+	width: 98%;
+	border-collapse: collapse;
+	empty-cells: show;
+}
+
+.list table caption {
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.list table th {
+	font-size: 13px;
+	background: #CCCCCC;
+	height: 31px;
+	border: 1px solid #AAAAFF;
+	background-color: #D9D9FF;
+}
+
+.list table td {
+	font-size: 13px;
+	border: 1px solid #AAAAFF;
+	height: 27px;
+	cellspacing: 1;
+	cellpadding: 8;
+	width: 700;
+}
+
+.list .list_tb td {
+	font-size: 13px;
+	border: 1px solid #AAAAFF;
+	height: 27px;
+	cellspacing: 1;
+	cellpadding: 8;
+	width:auto;
+}
+
+
+.list a {
+	color: #8CC6FF;
+	text-decoration: none;
+}
+tr.highlight td {   
+	background:#C4E1FF;
+}
+
