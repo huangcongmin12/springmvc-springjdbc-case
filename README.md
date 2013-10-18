@@ -1,9 +1,9 @@
-springmvc-springjdbc-case
+SpringMVC3 + SpringJDBC 整合
 =========================
 
-SpringMVC3 + SpringJDBC 整合示例
+SpringMVC3 + SpringJDBC 整合
 
-SpringMVC3 + SpringJDBC 整合 示例。主要功能包括CRUD，权限过滤，分页查询等。
+SpringMVC3 + SpringJDBC 整合。主要功能包括CRUD，权限过滤，分页查询等。
 
 数据库：MySQL
 
